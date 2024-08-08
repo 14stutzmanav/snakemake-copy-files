@@ -1,0 +1,3 @@
+originalFile,newName
+../../faire-analysis/heterochromatin-project/BigWig/hp1a2-3LW-F-wing-FAIRE_dm6_trim_q5_sorted_dupsRemoved_POOLED_rpgcNorm.bw,../astutzman_faire/hp1chromo-3LW-wing-faire-merged_rpgcNorm.bw
+../../faire-analysis/heterochromatin-project/BigWig/ywdf-3LW-F-wing-FAIRE_dm6_trim_q5_sorted_dupsRemoved_POOLED_rpgcNorm.bw,../astutzman_faire/hp1control-3LW-wing-faire-merged_rpgcNorm.bw
